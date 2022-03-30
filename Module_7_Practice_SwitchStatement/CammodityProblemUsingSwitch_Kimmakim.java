@@ -5,7 +5,7 @@
  * Monday Wednesday (10:30 am - 1:30 pm)
  * @version "17.0.2" 2022-01-18
  */
-package Module_7_Practice;
+package Module_7_Practice_SwitchStatement;
 import java.util.Scanner;
 public class CammodityProblemUsingSwitch_Kimmakim {
     public static void main(String[] args) {
